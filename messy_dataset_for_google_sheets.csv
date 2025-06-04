@@ -1,0 +1,6 @@
+Full Name,Age,JoinDate,Dept,Q1_Sales,Q2_Sales,Region
+John Smith,25,01/05/2023,Sales,"$1,000",1100,East
+Jane.Doe,twenty-two,2023-06-15,sales,"$2,300","2,500",East
+ALICE JOHNSON,30,"July 10, 2022",Marketing,1200,"$1,400",east 
+"bob,white", 27 ,15-08-2022,MKT,"1,500",,WEST
+,NA,,HR ,,"1,000",West

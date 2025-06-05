@@ -1,0 +1,6 @@
+ID,Name,Gender,Math_Sem1,Math_Sem2,Sci_Sem1,Sci_Sem2,Final_Grade,Notes
+1,Ann,F,85.0,,88.0,90.0,B+,Needs help in Math Sem2
+2,Ben,M,78.0,82.0,80.0,,B,
+3,Cara,F,92.0,90.0,95.0,96.0,A,High Achiever
+4,Dave,M,,76.0,,78.0,C+,Missing initial scores
+5,Eva,F,88.0,89.0,85.0,87.0,B+,
